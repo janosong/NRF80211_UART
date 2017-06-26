@@ -554,6 +554,7 @@ int main(void)
     // Enter main loop
     for (;;)
     {
+    	int a = 33333333333333333333333333333333332;
         power_manage();
 
 ;
